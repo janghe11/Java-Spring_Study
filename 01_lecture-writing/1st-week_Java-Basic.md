@@ -3,9 +3,9 @@
 * 장소 : 토즈 강남2호점 Z-8 부스
 * 발표자 : 서동우님
 
-* **강의 자료(02_lecture-presentations)** : 
-* **샘플 코드(03_sample-codes)** : 
-* 실습 소스 파일(04_practice-codes) : Gugudan.java / Gugudan.class
+* **강의 자료(02_lecture-presentations)** : JAVA 첫 시간.pptx
+* **샘플 코드(03_sample-codes)** : Gugudan.java
+* 실습 소스 파일(04_practice-codes) : Gugudan.java
 
 ## 프로그램이란?
 * 소프트웨어의 한가지로, 어떤 문제를 해결하기 위하여 그 처리 방법과 순서를 기술하여 컴퓨터에 주어지는 일련의 명령문 집합체. (나무위키)
