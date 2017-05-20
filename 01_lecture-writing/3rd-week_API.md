@@ -3,9 +3,7 @@
 * 장소 : 힐스터디 강남점 14번 부스
 * 발표자 : 강현정님
 
-* **강의 자료(02_lecture-presentations)** : JAVA 첫 시간.pptx
-* **샘플 코드(03_sample-codes)** : Gugudan.java
-* 실습 소스 파일(04_practice-codes) : Gugudan.java
+* **강의 자료(02_lecture-presentations)** : java-api.pptx
 
 ## Java API
 * Application Programming Interface

@@ -4,8 +4,6 @@
 * 발표자 : 권택환님
 
 * **강의 자료(02_lecture-presentations)** : JAVA Collection.pptx
-* **샘플 코드(03_sample-codes)** : 없음
-* 실습 소스 파일(04_practice-codes) : 없음
 
 ## Collection API
 * 대부분의 어플리케이션은 필요한 데이터를 조회하고 조작을 통해 원하는 결과를 도출.
